@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?><Wiki>
+    <Article>
+        <ID>1</ID>
+        <Title>!!</Title>
+        <Link>http://en.wikipedia.org/wiki/!!</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%21%21</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>2</ID>
+        <Title>!!!</Title>
+        <Link>http://en.wikipedia.org/wiki/!!!</Link>
+        <Description>"!!! is a dance-punk band that formed in Sacramento, California in 1996. Members of !!! came from other local bands such as The Yah Mos, Black Liquorice and Popesmashers."</Description>
+        <Entity>http://dbpedia.org/resource/%21%21%21</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>3</ID>
+        <Title>!!!Fuck_You!!!</Title>
+        <Link>http://en.wikipedia.org/wiki/!!!Fuck_You!!!</Link>
+        <Description>"!!!Fuck You!!! is an EP released by thrash metal band Overkill in 1987. Consisting of a cover version of the song \"Fuck You\", the EP also featured 5 live tracks recorded at The Phantasy Theatre in Cleveland, Ohio. Long out of print, the EP is now extremely rare, but was re-released in 1997 with extra tracks as !!!Fuck You!!! and Then Some. The 1990 CD re-issue was sold with a reversible cover art booklet."</Description>
+        <Entity>http://dbpedia.org/resource/%21%21%21Fuck_You%21%21%21</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>4</ID>
+        <Title>!!!Fuck_You!!!_and_Then_Some</Title>
+        <Link>http://en.wikipedia.org/wiki/!!!Fuck_You!!!_and_Then_Some</Link>
+        <Description>"!!!Fuck You!!! and Then Some is a 1996 reissue of the 1987 Overkill EP !!!Fuck You!!!, combined with the original four-song Overkill EP, and bonus live tracks, including a cover of Black Sabbath's \"Hole in the Sky.\""</Description>
+        <Entity>http://dbpedia.org/resource/%21%21%21Fuck_You%21%21%21_and_Then_Some</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>5</ID>
+        <Title>!!!_(album)</Title>
+        <Link>http://en.wikipedia.org/wiki/!!!_(album)</Link>
+        <Description>"!!! is the eponymous debut album by !!!. It was released in 2001."</Description>
+        <Entity>http://dbpedia.org/resource/%21%21%21_%28album%29</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>6</ID>
+        <Title>!!Destroy-Oh-Boy!!</Title>
+        <Link>http://en.wikipedia.org/wiki/!!Destroy-Oh-Boy!!</Link>
+        <Description>"!!Destroy-Oh-Boy!! is the debut album by the American garage punk group New Bomb Turks. It was released in 1993 by Crypt Records."</Description>
+        <Entity>http://dbpedia.org/resource/%21%21Destroy-Oh-Boy%21%21</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>7</ID>
+        <Title>!'O-!khung_language</Title>
+        <Link>http://en.wikipedia.org/wiki/!'O-!khung_language</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%21%27O-%21khung_language</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>8</ID>
+        <Title>!=</Title>
+        <Link>http://en.wikipedia.org/wiki/!=</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%21%3D</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>9</ID>
+        <Title>!?</Title>
+        <Link>http://en.wikipedia.org/wiki/!?</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%21%3F</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>10</ID>
+        <Title>!?_(chess)</Title>
+        <Link>http://en.wikipedia.org/wiki/!?_(chess)</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%21%3F_%28chess%29</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>11</ID>
+        <Title>!Action_Pact!</Title>
+        <Link>http://en.wikipedia.org/wiki/!Action_Pact!</Link>
+        <Description>"!Action Pact! were a punk rock band, formed in 1981 as the Bad Samaritans by guitarist Wild Planet, bassist Dr. Phibes, and drummer Joe Fungus. Joe Fungus also played with the punk band called Savage Upsurge. The John from Dead Mans Shadow, was the band's original lead singer. He left the band to concentrate on D.M.S."</Description>
+        <Entity>http://dbpedia.org/resource/%21Action_Pact%21</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>12</ID>
+        <Title>!Bang!</Title>
+        <Link>http://en.wikipedia.org/wiki/!Bang!</Link>
+        <Description>"!Bang! is a professional wrestling promotion owned by Dory Funk, Jr. It is run by the Funking Conservatory - a full-service professional wrestling school, and the stars of !BANG! play as members of the Funking Conservatory team."</Description>
+        <Entity>http://dbpedia.org/resource/%21Bang%21</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>13</ID>
+        <Title>!Hero</Title>
+        <Link>http://en.wikipedia.org/wiki/!Hero</Link>
+        <Description>"!Hero is a rock opera about Jesus. It is based on the question, \"What if Jesus was born in Bethlehem, Pennsylvania?\"."</Description>
+        <Entity>http://dbpedia.org/resource/%21Hero</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>14</ID>
+        <Title>!Hero_(album)</Title>
+        <Link>http://en.wikipedia.org/wiki/!Hero_(album)</Link>
+        <Description>"!Hero an album featuring the songs from the rock opera, !Hero."</Description>
+        <Entity>http://dbpedia.org/resource/%21Hero_%28album%29</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>15</ID>
+        <Title>!Hu_language</Title>
+        <Link>http://en.wikipedia.org/wiki/!Hu_language</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%21Hu_language</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>16</ID>
+        <Title>!Hukwe_language</Title>
+        <Link>http://en.wikipedia.org/wiki/!Hukwe_language</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%21Hukwe_language</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>17</ID>
+        <Title>!Khung_language</Title>
+        <Link>http://en.wikipedia.org/wiki/!Khung_language</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%21Khung_language</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>18</ID>
+        <Title>!Kora_language</Title>
+        <Link>http://en.wikipedia.org/wiki/!Kora_language</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%21Kora_language</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>19</ID>
+        <Title>!Ku_language</Title>
+        <Link>http://en.wikipedia.org/wiki/!Ku_language</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%21Ku_language</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>20</ID>
+        <Title>!O!kung_language</Title>
+        <Link>http://en.wikipedia.org/wiki/!O!kung_language</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%21O%21kung_language</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>21</ID>
+        <Title>!O!ung_language</Title>
+        <Link>http://en.wikipedia.org/wiki/!O!ung_language</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%21O%21ung_language</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>22</ID>
+        <Title>!Ora_language</Title>
+        <Link>http://en.wikipedia.org/wiki/!Ora_language</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%21Ora_language</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>23</ID>
+        <Title>!T.O.O.H.!</Title>
+        <Link>http://en.wikipedia.org/wiki/!T.O.O.H.!</Link>
+        <Description>"!T.O.O.H.! (an acronym for \"The Obliteration of Humanity\") were a progressive deathgrind band from the Czech Republic formed in 1990."</Description>
+        <Entity>http://dbpedia.org/resource/%21T.O.O.H.%21</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>24</ID>
+        <Title>!WOWOW!</Title>
+        <Link>http://en.wikipedia.org/wiki/!WOWOW!</Link>
+        <Description>"!WOWOW! is a collective in Peckham, London. Otherwise known as The Children of !WOWOW!, they are a group of artists, fashion designers, writers and musicians, who have promoted numerous art events and parties in London and Berlin."</Description>
+        <Entity>http://dbpedia.org/resource/%21WOWOW%21</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>25</ID>
+        <Title>!Xo_language</Title>
+        <Link>http://en.wikipedia.org/wiki/!Xo_language</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%21Xo_language</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>26</ID>
+        <Title>!Xun_language</Title>
+        <Link>http://en.wikipedia.org/wiki/!Xun_language</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%21Xun_language</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>27</ID>
+        <Title>!_(album)</Title>
+        <Link>http://en.wikipedia.org/wiki/!_(album)</Link>
+        <Description>"! is an album by The Dismemberment Plan. It was released on October 2, 1995 on DeSoto Records."</Description>
+        <Entity>http://dbpedia.org/resource/%21_%28album%29</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>28</ID>
+        <Title>!_(chess)</Title>
+        <Link>http://en.wikipedia.org/wiki/!_(chess)</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%21_%28chess%29</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>29</ID>
+        <Title>!_(disambiguation)</Title>
+        <Link>http://en.wikipedia.org/wiki/!_(disambiguation)</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%21_%28disambiguation%29</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>30</ID>
+        <Title>!_point</Title>
+        <Link>http://en.wikipedia.org/wiki/!_point</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%21_point</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>31</ID>
+        <Title>!xbile</Title>
+        <Link>http://en.wikipedia.org/wiki/!xbile</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%21xbile</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>32</ID>
+        <Title>$1</Title>
+        <Link>http://en.wikipedia.org/wiki/$1</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%241</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>33</ID>
+        <Title>$1,000,000_Chance_of_a_Lifetime</Title>
+        <Link>http://en.wikipedia.org/wiki/$1,000,000_Chance_of_a_Lifetime</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%241%2C000%2C000_Chance_of_a_Lifetime</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>34</ID>
+        <Title>$1.98_Beauty_Show</Title>
+        <Link>http://en.wikipedia.org/wiki/$1.98_Beauty_Show</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%241.98_Beauty_Show</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>35</ID>
+        <Title>$1.99_Romances</Title>
+        <Link>http://en.wikipedia.org/wiki/$1.99_Romances</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%241.99_Romances</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>36</ID>
+        <Title>$10</Title>
+        <Link>http://en.wikipedia.org/wiki/$10</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%2410</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>37</ID>
+        <Title>$100</Title>
+        <Link>http://en.wikipedia.org/wiki/$100</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%24100</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>38</ID>
+        <Title>$100,000_Bar</Title>
+        <Link>http://en.wikipedia.org/wiki/$100,000_Bar</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%24100%2C000_Bar</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>39</ID>
+        <Title>$100,000_Bars</Title>
+        <Link>http://en.wikipedia.org/wiki/$100,000_Bars</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%24100%2C000_Bars</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>40</ID>
+        <Title>$100,000_Challenge</Title>
+        <Link>http://en.wikipedia.org/wiki/$100,000_Challenge</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%24100%2C000_Challenge</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>41</ID>
+        <Title>$100,000_Dollar_Mamal</Title>
+        <Link>http://en.wikipedia.org/wiki/$100,000_Dollar_Mamal</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%24100%2C000_Dollar_Mamal</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>42</ID>
+        <Title>$100,000_Fortune_Hunt</Title>
+        <Link>http://en.wikipedia.org/wiki/$100,000_Fortune_Hunt</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%24100%2C000_Fortune_Hunt</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>43</ID>
+        <Title>$100,000_Infield</Title>
+        <Link>http://en.wikipedia.org/wiki/$100,000_Infield</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%24100%2C000_Infield</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>44</ID>
+        <Title>$100,000_infield</Title>
+        <Link>http://en.wikipedia.org/wiki/$100,000_infield</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%24100%2C000_infield</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>45</ID>
+        <Title>$1000</Title>
+        <Link>http://en.wikipedia.org/wiki/$1000</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%241000</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>46</ID>
+        <Title>$10000</Title>
+        <Link>http://en.wikipedia.org/wiki/$10000</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%2410000</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>47</ID>
+        <Title>$100000</Title>
+        <Link>http://en.wikipedia.org/wiki/$100000</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%24100000</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>48</ID>
+        <Title>$100_Bill_Y'all</Title>
+        <Link>http://en.wikipedia.org/wiki/$100_Bill_Y'all</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%24100_Bill_Y%27all</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>49</ID>
+        <Title>$100_Film_Festival</Title>
+        <Link>http://en.wikipedia.org/wiki/$100_Film_Festival</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%24100_Film_Festival</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>50</ID>
+        <Title>$100_Hamburger</Title>
+        <Link>http://en.wikipedia.org/wiki/$100_Hamburger</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%24100_Hamburger</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>51</ID>
+        <Title>$10_(owarai)</Title>
+        <Link>http://en.wikipedia.org/wiki/$10_(owarai)</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%2410_%28owarai%29</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>52</ID>
+        <Title>$1_coin</Title>
+        <Link>http://en.wikipedia.org/wiki/$1_coin</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%241_coin</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>53</ID>
+        <Title>$2</Title>
+        <Link>http://en.wikipedia.org/wiki/$2</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%242</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>54</ID>
+        <Title>$20</Title>
+        <Link>http://en.wikipedia.org/wiki/$20</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%2420</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>55</ID>
+        <Title>$25_Million_Dollar_Hoax</Title>
+        <Link>http://en.wikipedia.org/wiki/$25_Million_Dollar_Hoax</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%2425_Million_Dollar_Hoax</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>56</ID>
+        <Title>$2_coin</Title>
+        <Link>http://en.wikipedia.org/wiki/$2_coin</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%242_coin</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>57</ID>
+        <Title>$30_Film_School</Title>
+        <Link>http://en.wikipedia.org/wiki/$30_Film_School</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%2430_Film_School</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>58</ID>
+        <Title>$40_a_Day</Title>
+        <Link>http://en.wikipedia.org/wiki/$40_a_Day</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%2440_a_Day</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>59</ID>
+        <Title>$5</Title>
+        <Link>http://en.wikipedia.org/wiki/$5</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%245</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>60</ID>
+        <Title>$50</Title>
+        <Link>http://en.wikipedia.org/wiki/$50</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%2450</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>61</ID>
+        <Title>$50,000_a_Minute</Title>
+        <Link>http://en.wikipedia.org/wiki/$50,000_a_Minute</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%2450%2C000_a_Minute</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>62</ID>
+        <Title>$500</Title>
+        <Link>http://en.wikipedia.org/wiki/$500</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%24500</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>63</ID>
+        <Title>$5000</Title>
+        <Link>http://en.wikipedia.org/wiki/$5000</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%245000</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>64</ID>
+        <Title>$6000000_man</Title>
+        <Link>http://en.wikipedia.org/wiki/$6000000_man</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%246000000_man</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>65</ID>
+        <Title>$700_Billion_Bailout</Title>
+        <Link>http://en.wikipedia.org/wiki/$700_Billion_Bailout</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%24700_Billion_Bailout</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>66</ID>
+        <Title>$9.99</Title>
+        <Link>http://en.wikipedia.org/wiki/$9.99</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%249.99</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>67</ID>
+        <Title>$HOME</Title>
+        <Link>http://en.wikipedia.org/wiki/$HOME</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%24HOME</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>68</ID>
+        <Title>$_(disambiguation)</Title>
+        <Link>http://en.wikipedia.org/wiki/$_(disambiguation)</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%24_%28disambiguation%29</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+    <Article>
+        <ID>69</ID>
+        <Title>$_(film)</Title>
+        <Link>http://en.wikipedia.org/wiki/$_(film)</Link>
+        <Description>No Description Available!</Description>
+        <Entity>http://dbpedia.org/resource/%24_%28film%29</Entity>
+        <Schema>http://www.w3.org/2000/01/rdf-schema#label</Schema>
+    </Article>
+</Wiki>
