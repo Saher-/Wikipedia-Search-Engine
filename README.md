@@ -22,6 +22,7 @@ Wikipedia Search Engine (with Lucene)
 #### Documentation
 Please Read the documentation provided for more details on the project.
 
-#### NOTE:
+#### NOTEs:
 - Due to large files, only portion of the corpus were uploaded (current lucene index is the full one though).
-- if you like to download the full corpus, download the above lines, and follow the naming conventions as provided.
+- If you like to download the full corpus, download the above lines, and follow the naming conventions as provided.
+- This was a project for class CSC 575 - Advanced Information Retrival.
